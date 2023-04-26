@@ -16,7 +16,7 @@
 			"args": [ {
 				"name": "flatbox",
 				"responsive": true,
-				"templateDirectory": "skins/Flatbox/templates",
+				"templateDirectory": "templates",
 				"styles": [
 					"skins.flatbox"
 				],
